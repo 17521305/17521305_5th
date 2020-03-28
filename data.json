@@ -1,0 +1,64 @@
+{
+    "films":[
+        {
+            "id": 1,
+            "title": "Titanic",
+            "genre": "Epic romance and disaster",
+            "year": 1997
+        },
+        {
+            "id": 2,
+            "title": "La La Land",
+            "genre": "Romantic musical",
+            "year": 2016
+        },
+        {
+            "id": 3,
+            "title": "Gone With the Wind",
+            "genre": "Epic historical romance",
+            "year": 1939
+        },
+        {
+            "id": 4,
+            "title": "Mrs. Miniver",
+            "genre": "Romantic war drama",
+            "year": 1942
+        },
+        {
+            "id": 5,
+            "title": "A Streetcar Named Desire",
+            "genre": "Drama",
+            "year": 1951
+        },
+        {
+            "id": 6,
+            "title": "Ben-Hur",
+            "genre": "Epic historical drama",
+            "year": 1959
+        },
+        {
+            "id": 7,
+            "title": "Dances with Wolves",
+            "genre": "Epic Western",
+            "year": 1990
+        },
+        {
+            "id": 8,
+            "title": "Schindler's List",
+            "genre": "Historical drama",
+            "year": 1993
+        },
+        {
+            "id": 9,
+            "title": "Mr. Smith Goes to Washington",
+            "genre": "Political comedy-drama",
+            "year": 1997
+        },
+        {
+            "id": 10,
+            "title": "Chinatown",
+            "genre": "Neo-noir mystery",
+            "year": 1974
+        }
+    ]
+}
